@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "楚门中学2019毕业典礼摇号器", "楚门中学2019毕业典礼摇号器.vbproj", "{DC9EB8A4-4F72-4838-9F6D-84216CED063D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC9EB8A4-4F72-4838-9F6D-84216CED063D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC9EB8A4-4F72-4838-9F6D-84216CED063D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC9EB8A4-4F72-4838-9F6D-84216CED063D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC9EB8A4-4F72-4838-9F6D-84216CED063D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {641189A0-1857-4F24-8DFB-36566D502D3C}
+	EndGlobalSection
+EndGlobal
