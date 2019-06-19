@@ -163,7 +163,7 @@ Partial Class Form1
         Me.Label9.BackColor = System.Drawing.Color.Transparent
         Me.Label9.Cursor = System.Windows.Forms.Cursors.Default
         Me.Label9.Font = New System.Drawing.Font("Comic Sans MS", 24.80672!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label9.ForeColor = System.Drawing.Color.DeepPink
+        Me.Label9.ForeColor = System.Drawing.Color.Crimson
         Me.Label9.Location = New System.Drawing.Point(55, 378)
         Me.Label9.Name = "Label9"
         Me.Label9.Size = New System.Drawing.Size(474, 55)
@@ -177,7 +177,7 @@ Partial Class Form1
         Me.Label10.BackColor = System.Drawing.Color.Transparent
         Me.Label10.Cursor = System.Windows.Forms.Cursors.Default
         Me.Label10.Font = New System.Drawing.Font("Comic Sans MS", 24.80672!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label10.ForeColor = System.Drawing.Color.DeepPink
+        Me.Label10.ForeColor = System.Drawing.Color.Crimson
         Me.Label10.Location = New System.Drawing.Point(55, 871)
         Me.Label10.Name = "Label10"
         Me.Label10.Size = New System.Drawing.Size(474, 55)

@@ -12,12 +12,12 @@
     End Sub
     Private Sub Timer1_Tick(sender As Object, e As EventArgs) Handles timer1.Tick
         Dim r_class As Random = New Random()
-        [Class].Text = num_format(r_class.Next(1, 12))
+        [Class].Text = num_format(r_class.Next(1, 13))
     End Sub
 
     Private Sub Timer2_Tick(sender As Object, e As EventArgs) Handles timer2.Tick
         Dim r_num As Random = New Random()
-        Num.Text = num_format(r_num.Next(1, Class_MaxiNum(Val([Class].Text))))
+        Num.Text = num_format(r_num.Next(1, Class_MaxiNum(Val([Class].Text))) + 1)
     End Sub
     Private Sub Timer3_Tick(sender As Object, e As EventArgs) Handles timer3.Tick
 
